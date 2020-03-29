@@ -1,16 +1,19 @@
 <template>
   <div id="app">
     <TopBar nome="Graziantonio" cognome="Panunzio"></TopBar>
+    <WorkExperience></WorkExperience>
   </div>
 </template>
 
 <script>
 import TopBar from "./components/TopBar";
+import WorkExperience from "./components/WorkExperience";
 
 export default {
   name: "App",
   components: {
-    TopBar
+    TopBar,
+    WorkExperience
   }
 };
 </script>
