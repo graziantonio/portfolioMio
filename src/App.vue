@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet">
     <TopBar nome="Graziantonio" cognome="Panunzio"></TopBar>
     <WorkExperience></WorkExperience>
   </div>
