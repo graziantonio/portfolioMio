@@ -5,7 +5,7 @@
   </div>
   <div class="card-body">
     <h5 class="card-title">Developer</h5>
-    <p class="card-text">.NET developer and currently studying vue, laravel, node.</p>
+    <p class="card-text">.NET developer. Currently interested in Vue JS, Laravel, Node JS.</p>
   </div>
 </div>
 </template>

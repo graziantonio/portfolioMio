@@ -8,16 +8,16 @@
       <div class="rightCol col-4"></div>
     </div>
     <div class="row justify-content-center border-bottom">
-      <div class="leftCol col-2">Soleto SPA - 2011-2016</div>
-      <div class="rightCol col-4">
+      <div class="med1 leftCol col-2">Soleto SPA - 2011-2016</div>
+      <div class="med1 rightCol col-4">
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Et eaque est
         praesentium rem quisquam autem nam incidunt sapiente labore natus
         impedit maiores quae hic possimus, sunt, sit dicta, maxime velit.
       </div>
     </div>
     <div class="row justify-content-center">
-      <div class="leftCol col-2">Fincons Group SPA - 2017-Present</div>
-      <div class="rightCol col-4">
+      <div class="med1 leftCol col-2">Fincons Group SPA - 2017-Present</div>
+      <div class="med1 rightCol col-4">
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto esse
         beatae assumenda distinctio, libero, eligendi ipsa iure qui provident
         atque dolorem in vero sunt mollitia soluta deleniti a explicabo
